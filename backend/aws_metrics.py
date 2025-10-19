@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def get_ec2_metrics():
-    client = boto3.client("cloudwatch", region_name=os.getenv("AWS_REGION"))
-    instance_id = os.getenv("AWS_INSTANCE_ID")
+    client = boto3.client("cloudwatch", region_name=os.getenv("MY_AWS_REGION"))
+    instance_id = os.getenv("MY_AWS_INSTANCE_ID")
 
     metrics_to_fetch = {
         "CPUUtilization": "Average",
