@@ -10,3 +10,5 @@ numpy
 pandas
 matplotlib
 gunicorn
+python-dotenv
+email-validator
