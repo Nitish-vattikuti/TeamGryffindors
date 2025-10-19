@@ -242,7 +242,6 @@ Memory: 85%
 Disk: 320 IOPS
 Risk Score: 98.7
 
-
 🏆 Hackathon Achievements
 ✅ Real-time multi-source monitoring (Local + AWS)
 
@@ -252,7 +251,7 @@ Risk Score: 98.7
 
 ✅ Beautiful, responsive dashboard with dark/light themes
 
-✅ Complete full-stack application in 24 hours
+✅ Complete full-stack application in 48 hours
 
 🚧 Project Structure
 text
@@ -355,7 +354,9 @@ Performance optimization
 👥 Team Members
 Vattikuti Nitish
 Shaik Harshad
-Polamarsetti Sravanthi
+Polamarasetti Sravanthi
+Sesetty Hemanth
+Seeram Abhishek Aravind
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -367,8 +368,9 @@ Canva for presentation design tools
 
 Open source community for amazing libraries and tools
 
-📧 Email: 1896nitish@gmail.com
+📞 Contact & Links
 
+📧 Email: 1896nitish@gmail.com
 
 "Don't just monitor — Predict."
 Built with ❤️ by Team Gryffindors during Raghu Hackathon 2025
