@@ -8,5 +8,4 @@ joblib
 numpy
 pandas
 matplotlib
-smtplib
 gunicorn
