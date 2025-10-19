@@ -1,0 +1,12 @@
+[build]
+  base = "frontend"
+  publish = "frontend/build"
+  command = "npm run build"
+
+[build.environment]
+  CI = "false"
+
+# Optional: Skip the Next.js plugin if Netlify auto-detects it
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+  skip = true
